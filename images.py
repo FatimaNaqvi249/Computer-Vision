@@ -1,7 +1,7 @@
 import cv2
 
 # Load an image from the Images folder
-image = cv2.imread('Images/ss1.png')
+image = cv2.imread('images/ss1.png')
 
 # Display the image in a window
 cv2.imshow('Loaded Image', image)
